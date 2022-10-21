@@ -28,17 +28,12 @@
 </tr>
 <table>
 
-
-<h3 align="left">
-𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :
-</h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;">Dynamic Projects :
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shishir-Bhuiyan&repo=Code-Algorithm&show_icons=true&theme=onedark&hide_border=true)
 
-
-
-<h3 align="left">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 :</h3>
 <p align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;">
 <img src="https://shishircv.netlify.app/Asset/lang/c++.svg"/>
 <img src="https://shishircv.netlify.app/Asset/lang/java.svg"/>
 <img src="https://shishircv.netlify.app/Asset/lang/js.svg"/>
@@ -52,8 +47,9 @@
 
 </p>
 
-<h3 align="left">Tools :</h3>
+
 <p align="left">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;">
 <img src="https://shishircv.netlify.app/Asset/tools/vscode.svg"/>
 <img src="https://shishircv.netlify.app/Asset/tools/git.svg"/>
 <img src="https://shishircv.netlify.app/Asset/tools/githubdesktop.svg"/>
@@ -64,9 +60,7 @@
 
 
 
-<details>
-<summary>Documentation</summary>
-</details>
+
 
 
 
