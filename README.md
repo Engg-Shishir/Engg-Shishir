@@ -4,9 +4,7 @@
 <p align="center"> 
 <img src="https://i.postimg.cc/SKMwm7QV/meatbusters-bold-removebg-preview.png"  />
 </p>
-
-
-<h3 align="center">𝓗𝓲 👋, I'm 𝕾𝖍𝖎𝖘𝖍𝖎𝖗 𝕭𝖍𝖚𝖎𝖞𝖆𝖓 and interested in doing positive things about every aspect of life. I love projects with challenges. I like working to make an impact in the real world. I always try to work for my world with my community. I learn to extend. Also, I specialize in Front-End and Back-End web Development. At the end of the day, I believe Code never lies 🏃🏾‍♂️</h3>
+<h3 >𝓗𝓲 👋, I'm 𝕾𝖍𝖎𝖘𝖍𝖎𝖗 𝕭𝖍𝖚𝖎𝖞𝖆𝖓 and interested in doing positive things about every aspect of life. I love projects with challenges. I like working to make an impact in the real world. I always try to work for my world with my community. I learn to extend. Also, I specialize in Front-End and Back-End web Development. At the end of the day, I believe Code never lies 🏃🏾‍♂️</h3>
 
 
 
@@ -14,7 +12,7 @@
 
 
 
-<table align="center" >
+<table>
 <tr>
 <td align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shishir-Bhuiyan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" />
