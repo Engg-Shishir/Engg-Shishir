@@ -14,17 +14,21 @@
 
 <table>
 <tr>
-<td align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shishir-Bhuiyan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" />
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Shishir-Bhuiyan&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" />
 </td>
-<td align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+<td>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
 </td>  
 </tr>
 <table>
 
 
+<h3 align="left">
+𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :
+</h3>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shishir-Bhuiyan&repo=Code-Algorithm&show_icons=true&theme=monokai&hide_border=true)
 
 
 
