@@ -31,6 +31,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;">Dynamic Projects :
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shishir-Bhuiyan&repo=Code-Algorithm&show_icons=true&theme=onedark&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shishir-Bhuiyan&repo=Resume-Builder&show_icons=true&theme=onedark&hide_border=true)
 
 <p align="left">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;">
