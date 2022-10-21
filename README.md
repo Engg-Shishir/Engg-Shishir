@@ -4,8 +4,6 @@
 <p align="center"> 
 <img src="https://i.postimg.cc/SKMwm7QV/meatbusters-bold-removebg-preview.png"  />
 </p>
-
-
 <table>
 <tr>
 <td>
@@ -16,27 +14,14 @@
 </td>  
 </tr>
 <table>
-
-
-
-
-
-
-
-
-
-
-
-
-
 <table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=Shishir-Bhuiyan&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" />
 </td>
-<td><img  src="https://i.postimg.cc/7h8jGpWc/Bm7L.gif" height="200px" /></td>
+<td><img  src="https://i.postimg.cc/7h8jGpWc/Bm7L.gif" height="170px" /></td>
 <td>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&hide_border=true" />
 </td>  
 </tr>
 <table>
@@ -46,8 +31,7 @@
 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 :
 </h3>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shishir-Bhuiyan&repo=Code-Algorithm&show_icons=true&theme=monokai&hide_border=true)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shishir-Bhuiyan&repo=Code-Algorithm&show_icons=true&theme=onedark&hide_border=true)
 
 
 
