@@ -4,7 +4,24 @@
 <p align="center"> 
 <img src="https://i.postimg.cc/SKMwm7QV/meatbusters-bold-removebg-preview.png"  />
 </p>
+
+
+<table>
+<tr>
+<td>
 <h4>𝓗𝓲 👋, I'm 𝕾𝖍𝖎𝖘𝖍𝖎𝖗 and interested in doing positive things about every aspect of life. I love projects with challenges. I like working to make an impact in the real world. I always try to work for my world with my community. I learn to extend. Also, I specialize in Front-End and Back-End web Development. At the end of the day, I believe Code never lies 🏃🏾‍♂️</h4>
+</td>
+<td>
+<img  src="https://shishircv.netlify.app/Asset/image/msb.png" />
+</td>  
+</tr>
+<table>
+
+
+
+
+
+
 
 
 
@@ -17,6 +34,7 @@
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=Shishir-Bhuiyan&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" />
 </td>
+<td><img  src="https://i.postimg.cc/7h8jGpWc/Bm7L.gif" height="200px" /></td>
 <td>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
 </td>  
