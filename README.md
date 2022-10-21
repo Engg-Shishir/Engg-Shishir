@@ -1,5 +1,8 @@
-
-
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <br>
 <p align="center"> 
 <img src="https://i.postimg.cc/SKMwm7QV/meatbusters-bold-removebg-preview.png"  />
@@ -14,6 +17,9 @@
 </td>  
 </tr>
 <table>
+
+  
+  
 <table>
 <tr>
 <td>
