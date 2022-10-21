@@ -4,7 +4,7 @@
 <p align="center"> 
 <img src="https://i.postimg.cc/SKMwm7QV/meatbusters-bold-removebg-preview.png"  />
 </p>
-<h5 >𝓗𝓲 👋, I'm 𝕾𝖍𝖎𝖘𝖍𝖎𝖗 𝕭𝖍𝖚𝖎𝖞𝖆𝖓 and interested in doing positive things about every aspect of life. I love projects with challenges. I like working to make an impact in the real world. I always try to work for my world with my community. I learn to extend. Also, I specialize in Front-End and Back-End web Development. At the end of the day, I believe Code never lies 🏃🏾‍♂️</h5>
+<h5>𝓗𝓲 👋, I'm 𝕾𝖍𝖎𝖘𝖍𝖎𝖗 𝕭𝖍𝖚𝖎𝖞𝖆𝖓 and interested in doing positive things about every aspect of life. I love projects with challenges. I like working to make an impact in the real world. I always try to work for my world with my community. I learn to extend. Also, I specialize in Front-End and Back-End web Development. At the end of the day, I believe Code never lies 🏃🏾‍♂️</h5>
 
 
 
