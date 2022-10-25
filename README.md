@@ -21,9 +21,9 @@
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=ShishirBhuiyan&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true&count_private=true" />
 </td>
-<td><img  src="https://i.postimg.cc/JzVZbwH5/oie-21201818n9-QK4-Rk-C-1.gif" height="149px" /></td>
+<td><img  src="https://i.postimg.cc/JzVZbwH5/oie-21201818n9-QK4-Rk-C-1.gif" height="185px" /></td>
 <td>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirBhuiyan&layout=compact&theme=monokai&hide_border=true" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirBhuiyan&theme=monokai&hide_border=true" />
 </td>  
 </tr>
 <table>
