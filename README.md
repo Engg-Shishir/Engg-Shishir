@@ -23,7 +23,7 @@
 </td>
 <td><img  src="https://i.postimg.cc/JzVZbwH5/oie-21201818n9-QK4-Rk-C-1.gif" height="149px" /></td>
 <td>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&hide_border=true" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-Bhuiyan&layout=compact&theme=monokai&hide_border=true" />
 </td>  
 </tr>
 <table>
