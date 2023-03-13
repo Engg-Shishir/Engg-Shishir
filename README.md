@@ -2,7 +2,23 @@
 <br>
 <p align="center"> 
 <img src="https://i.postimg.cc/SKMwm7QV/meatbusters-bold-removebg-preview.png"  />
+
 </p>
+<p align="center"> 
+<a href="https://github.com/Engg-Shishir?tab=followers" >
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Engg-Shishir?color=green&logo=github">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Engg-Shishir&label=Profile%20views&color=0e75b6&style=flat" alt="md-asraful-islam-subbir" /> 
+<a href="https://codeforces.com/profile/The-Silencer">
+    <img height="" src="https://raw.githubusercontent.com/Engg-Shishir/Cf-Stauts/8e8a0a20d54e20686677929666eca8ac03dd35c3/output/max_rating.svg" />
+</a>
+<a href="https://codeforces.com/profile/The-Silencer">
+    <img height="" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fengg-shishir&logo=leetcode&logoColor=yellow" />
+</a>
+</p>
+
+
+
 <table>
 <tr>
 <td>
@@ -10,7 +26,6 @@
 </td>
 <td>
 <img  src="https://shishircv.netlify.app/Asset/image/msb.png" />
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Engg-Shishir&label=Profile%20views&color=0e75b6&style=flat" alt="md-asraful-islam-subbir" /> </p>
 </td>  
 </tr>
 <table>
@@ -31,7 +46,6 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;">Dynamic Projects :
 
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Engg-Shishir&repo=The-Silencer&show_icons=true&theme=onedark&hide_border=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Engg-Shishir&repo=Resume-Builder&show_icons=true&theme=onedark&hide_border=true)
 
@@ -45,6 +59,7 @@
 <img src="https://shishircv.netlify.app/Asset/lang/react.svg"/>
 <img src="https://shishircv.netlify.app/Asset/lang/python.svg"/>
 <img src="https://shishircv.netlify.app/Asset/lang/mysql.svg"/>
+<img style="height:20px; border-radius:2px" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
 <img src="https://shishircv.netlify.app/Asset/lang/mongo.svg"/>
 <img src="https://shishircv.netlify.app/Asset/lang/bootstrap.svg"/>
 
@@ -58,13 +73,13 @@
 <img src="https://shishircv.netlify.app/Asset/tools/githubdesktop.svg"/>
 <img src="https://shishircv.netlify.app/Asset/tools/postman.svg"/>
 <img src="https://shishircv.netlify.app/Asset/tools/obs.svg"/>
+<img style="height:20px; border-radius:2px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;"> Competitive Programming
+<p align="left">
+<a href="https://codeforces.com/profile/The-Silencer">
+<img height="202px" src="https://raw.githubusercontent.com/Engg-Shishir/Cf-Stauts/8e8a0a20d54e20686677929666eca8ac03dd35c3/output/light_card.svg" /></a><a href="https://leetcode.com/engg-shishir/">
+<img src="https://leetcard.jacoblin.cool/engg-shishir?theme=light&font=Karma&ext=contest" /></a>
 
-
-
-
-
-
-
-
+</p>
