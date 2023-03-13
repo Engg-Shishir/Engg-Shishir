@@ -10,7 +10,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Engg-Shishir&label=Profile%20views&color=0e75b6&style=flat" alt="md-asraful-islam-subbir" /> 
 <a href="https://codeforces.com/profile/The-Silencer">
-    <img height="" src="https://raw.githubusercontent.com/Engg-Shishir/Cf-Stauts/8e8a0a20d54e20686677929666eca8ac03dd35c3/output/max_rating.svg" />
+    <img height="" src="https://raw.githubusercontent.com/Engg-Shishir/Cf-Stauts/62f46ac03376821ccedce6b6c22733a21f4b9a53/output/max_rating.svg" />
 </a>
 <a href="https://codeforces.com/profile/The-Silencer">
     <img height="" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fengg-shishir&logo=leetcode&logoColor=yellow" />
@@ -77,9 +77,24 @@
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-top:10px;"> Competitive Programming
-<p align="left">
+<p align="center">
 <a href="https://codeforces.com/profile/The-Silencer">
-<img height="202px" src="https://raw.githubusercontent.com/Engg-Shishir/Cf-Stauts/8e8a0a20d54e20686677929666eca8ac03dd35c3/output/light_card.svg" /></a><a href="https://leetcode.com/engg-shishir/">
-<img src="https://leetcard.jacoblin.cool/engg-shishir?theme=light&font=Karma&ext=contest" /></a>
-
+<img height="202px" src="https://raw.githubusercontent.com/Engg-Shishir/Cf-Stauts/62f46ac03376821ccedce6b6c22733a21f4b9a53/output/light_card.svg?token=AONEPBX3ZETZWMJ7KZH4XSLEB3F5W" /></a><a href="https://leetcode.com/engg-shishir/">
+<img src="https://leetcard.jacoblin.cool/engg-shishir?theme=light&font=Karma&ext=contest" /></a></a><a href="https://leetcode.com/engg-shishir/">
 </p>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
